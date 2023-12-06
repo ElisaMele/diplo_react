@@ -1,5 +1,6 @@
 
 import React from "react";
+import '../styles/pages/Homepage.css';
 
 const Homepage = (props) => {
 
