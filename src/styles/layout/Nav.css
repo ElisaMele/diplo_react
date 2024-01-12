@@ -27,6 +27,6 @@ nav ul li a:hover {
 }
 
 nav ul li a.activo {
-    border-bottom: 3px solid black;
-    padding-bottom: 7px;
+    border-bottom: 4px solid black;
+    padding-bottom: 8px;
 }
